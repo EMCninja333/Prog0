@@ -16,5 +16,9 @@ public class test {
 	public static void testMe(){
 		
 	}
+	
+	public void test(){
+		
+	}
 
 }
